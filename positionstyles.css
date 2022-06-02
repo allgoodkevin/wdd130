@@ -47,18 +47,22 @@
   width: 100px; 
   height: 100px; 
   background-color: green; 
-  margin-top: -20px;
-  margin-left: 40px;
+  margin-top: -30px;
+  margin-left: 30px;
 } 
 .yellow2 {
   width: 100px; 
   height: 100px; 
   background-color: gold; 
+  margin-top: -30px;
+  margin-left: 50px;
 } 
 .blue2 {
   width: 100px; 
   height: 100px; 
   background-color: blue; 
+  margin-top: -30px;
+  margin-left: 70px;
 } 
 /* Activity 3 styles */ 
 .content3 {
