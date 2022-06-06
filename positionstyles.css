@@ -87,6 +87,7 @@
   width: 400px; 
   height: 200px; 
   background-color: gold; 
+  margin-right: 0%;
 } 
 .blue3 {
   width: 100%;
@@ -146,8 +147,8 @@
   height: 100px; 
   background-color: blue; 
 } 
-/* Activity 6 styles */ 
-.content6 {
+ /* Activity 6 styles */ 
+ .content6 {
   /* This is the parent of the activity 6 boxes. */
 }
 .red6 {
