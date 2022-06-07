@@ -127,23 +127,23 @@
 }
 .red5 { 
   width: 100%; 
-  height: 200px; 
+  height: 100px; 
   background-color: red; 
 } 
 .green5 { 
-  width: 200px; 
-  height: 200px; 
+  width: 250px; 
+  height: 175px; 
   background-color: green; 
   float: inline-start;
-
 } 
 .yellow5 {
-  width: 100px; 
-  height: 100px; 
+  width: 100%; 
+  height: 250px; 
   background-color: gold; 
+
 } 
 .blue5 {
-  width: 100px; 
+  width: 100%; 
   height: 100px; 
   background-color: blue; 
 } 
